@@ -4,7 +4,7 @@ build/*
 kodilla-testing/build/*
 **/out/
 **/build/
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
